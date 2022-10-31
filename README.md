@@ -1,2 +1,2 @@
 # New Year timer
-[Link](https://pages.github.com/)
+[Link](https://ilya-potapow.github.io/new-year-timer-practice-/)
